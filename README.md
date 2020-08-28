@@ -1,2 +1,11 @@
 # Image-Processing
-Image processing related conferences and journals
+
+A list of image processing related conferences and journals.
+
+## CCF recommendations
+
+https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/
+
+https://www.ccf.org.cn/Academic_Evaluation/AI/
+
+
